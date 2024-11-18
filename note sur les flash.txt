@@ -1,0 +1,9 @@
+-----------Note sur les flash USB
+C'est quoi un disque flash USB ? (Universal Serial Bus)xt
+La mémoire flash est une forme de stockage de données utilisée par certains supports 
+comme une carte mémoire ou un disque SSD (Solid State Drive). De plus en plus répandue, 
+on la retrouve dans les clés USB, les smartphones, les appareils photo, et les ordinateurs portables.
+
+USB, pour "Universal Serial Bus" est une connectique permettant le branchement de périphériques externes, 
+tels que des clés USB ou des disques durs externes par exemple, sur les TV qui en sont équipées. 
+Cette connectique est déclinée en plusieurs version, elle propose un débit de données allant de 1,5 Mbit/s 

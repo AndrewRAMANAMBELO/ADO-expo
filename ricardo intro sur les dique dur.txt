@@ -1,0 +1,4 @@
+Les disques SSD (solid state srive) et les disques durs (HDD) sont des dispositifs de stockage de données.
+
+il existe 3 grd types de disque dur:
+IDE, HDD, et SSD.

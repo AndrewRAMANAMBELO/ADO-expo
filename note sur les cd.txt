@@ -1,0 +1,14 @@
+----------Note sur les cd:
+
+ils utilisent la technologie optique
+C'est le signal modulaire produit par la combinaison de lumière diffuse (valeur «0») et de
+lumière réfléchie (valeur «1») qui représente l'information enregistrée sur le disque.
+Quels sont les disques optiques ?
+Un disque optique est un support de stockage numérique sur lequel peuvent être enregistrées et 
+lues des données (informations, audio, vidéo...). Les types de disque optique les plus connus
+sont les CD, les DVD ou les Blu-ray.
+Qui a inventé le disque optique ?
+Le premier disque optique, connu sous le nom de LaserDisc,
+a été développé en 1970 par Philips et MCA (Music Corporation of America).
+Le LaserDisc était un disque de 12 pouces (30 cm) de diamètre qui utilisait un faisceau laser 
+pour lire les données gravées sur sa surface sous forme de sillons analogiques.

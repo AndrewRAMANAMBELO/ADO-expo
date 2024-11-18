@@ -1,0 +1,19 @@
+
+Qu'est-ce qu'une mémoire secondaire ? 
+La mémoire secondaire est une mémoire informatique non volatile, persistante et non immédiatement 
+accessible par un ordinateur ou un processeur . Elle permet aux utilisateurs de stocker des données et 
+des informations qui peuvent être récupérées, transmises et utilisées par des applications et des services 
+rapidement et facilement.
+
+Quelle est la différence entre la mémoire principale et la mémoire secondaire ?
+Rapidité d'accès : Le stockage primaire, souvent directement connecté au processeur de l'ordinateur, 
+offre des vitesses de récupération des données rapides. En revanche, le stockage secondaire, 
+conçu pour un stockage à long terme, a généralement des temps d'accès plus lents.
+
+quelles sont les types de memoires sondaires?
+Les disques durs, flash usb, carte sd, CDROM, etc... sont des périphériques de stockage et sont considérés 
+comme des mémoires secondaires.
+
+
+
+
